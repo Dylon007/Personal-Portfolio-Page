@@ -47,6 +47,10 @@ h1 {
   font-size: 4rem;
   font-weight: 700;
 }
+img {
+  width: 150%;  
+  height: auto; 
+}
 
 #welcome-section > p{
   color: red;
